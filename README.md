@@ -2,7 +2,7 @@
 
 ## 📌 Visão Geral
 
-**ProvaDigital** é um sistema brasileiro de registro forense local criado para preservar evidências do estado de um computador ao longo do tempo. Seu objetivo é permitir que o usuário **prove tecnicamente** que determinados arquivos, programas, serviços ou configurações **não existiam** em um momento anterior.
+**ProvaDigital** é um sistema  de registro forense local criado para preservar evidências do estado de um computador ao longo do tempo. Seu objetivo é permitir que o usuário **prove tecnicamente** que determinados arquivos, programas, serviços ou configurações **não existiam** em um momento anterior.
 
 O foco do ProvaDigital não é bloquear, remover ou acusar. Ele **registra fatos**, cria uma **linha do tempo confiável** e preserva a integridade das informações.
 
